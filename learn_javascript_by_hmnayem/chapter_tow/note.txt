@@ -1,0 +1,5 @@
+005.
+console.log("hello world")String = String
+console.log(2422)Number = Number
+console.log(43.234) floating = Floating Number
+console.log("Age " + 12) String + Number = 
