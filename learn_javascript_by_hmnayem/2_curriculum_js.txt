@@ -1,0 +1,28 @@
+How to Use this Course
+    Always Use Notebook
+    Always Type Code in Editor
+    Find Related Examples and Create Example
+    Spend Some Moment on Each Chapter
+    Discuss with Others What You have Learned
+
+This Course Structure is Organised/topic
+    Programming Basics
+    Logic and Condition
+    Loops and Repetition
+    Handling Strings
+    Arrays
+    Objects
+    Function
+    Functional Programming
+    Scope and Closure
+    OOP Intro (Objects Oriented Programme)
+    OOP with JS (Objects Oriented Programme)
+    Prototype
+    Prototypical Inheritance
+    ES6 (EcmaScript 6)
+    Error Handling
+    Asynchronous Programming
+    DOM (Document Object Model)
+    Project
+    JS Libraries ----------->   Future Road Map
+
