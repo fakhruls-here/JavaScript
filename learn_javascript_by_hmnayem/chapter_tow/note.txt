@@ -2,4 +2,40 @@
 console.log("hello world")String = String
 console.log(2422)Number = Number
 console.log(43.234) floating = Floating Number
-console.log("Age " + 12) String + Number = 
+console.log("Age " + 12) String + Number = String data type
+
+006.
+* var == variable, Variable is a Container which can Store data
+* everyData Store in the Variable bcz its best practicing for any programmer
+* variable data always declared on the console.log() , bcz of compiler always up_2_down/line_by_line code execution any source. 
+* JS Kind of Variable
+    var, const, let
+    var   = var is a FunctionScope(Scope means world/programmingWorld) // source of LWS https://youtu.be/6LvKgfLP8uU
+    let   = let is a BlockScope
+    const = let is a BlockScope 
+    N.B var anywhere accesseable is easy but let+const only access in BlockScope not anywhere access.
+
+007.
+* Reserved Keyword in JS , avoid under those Keyword bcz of those keyword is working in JS Systems.
+    source on the links https://cutt.ly/x7CNVSr
+* Naming convention in JS, Naming convention is a sensitive issue for learning Js/others languages 
+    The following are the rules for naming convention variables in JavaScript:
+        Spaces are not allowed in variable names.
+        Only letters, digits, underscores, and dollar signs are permitted in variable names.
+        Case matters when it comes to variable names.
+        A letter (alphabet), an underscore (_), or a dollar sign ($) must be the first character in a variable name, any other special characters must not be taken.
+        certain terms such as reserved words in javascript shouldn’t be used to name variables.
+        Ex; accountNumberDetailsId = 34; / account_number_details_id = 34;
+
+008.
+* Kind of dataTypes in JS
+    primitive 
+        -Number // 1, 23, 230.33, 22;
+        -String // 'this is a singleQuate' , "this is a doubleQuate" , `this is a backTick`
+        -Boolean // true , false
+        -Undefined // Not a defined of value == false
+        -Null // absence of a value == false
+    object/non-primitive
+        -Array
+        -Object
+        -Function
