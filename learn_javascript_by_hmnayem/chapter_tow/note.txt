@@ -7,13 +7,13 @@ console.log("Age " + 12) String + Number = String data type
 006.
 * var == variable, Variable is a Container which can Store data
 * everyData Store in the Variable bcz its best practicing for any programmer
-* variable data always declared on the console.log() , bcz of compiler always up_2_down/line_by_line code execution any source. 
+* variable data always declared on the console.log() , bcz of compiler always up_2_down/line_by_line code execution in any source. 
 * JS Kind of Variable
     var, const, let
     var   = var is a FunctionScope(Scope means world/programmingWorld) // source of LWS https://youtu.be/6LvKgfLP8uU
     let   = let is a BlockScope
-    const = let is a BlockScope 
-    N.B var anywhere accesseable is easy but let+const only access in BlockScope not anywhere access.
+    const = const is a BlockScope 
+    N.B var anywhere accesseable is easy but let+const only access in BlockScope not anywhere access but that call anywhere out of BlockScope in area .
 
 007.
 * Reserved Keyword in JS , avoid under those Keyword bcz of those keyword is working in JS Systems.
