@@ -39,3 +39,6 @@ console.log("Age " + 12) String + Number = String data type
         -Array
         -Object
         -Function
+
+009.
+Remember that IntegerNumber/FloatingNumber = Number in JavaScript
