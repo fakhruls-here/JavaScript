@@ -5,6 +5,7 @@ console.log(43.234) floating = Floating Number
 console.log("Age " + 12) String + Number = String data type
 
 006.
+* JavaScript is a Case-sensitive language, so var != VAR/Var is'nt same bcz of this is a Case-sensitive topic.
 * var == variable, Variable is a Container which can Store data
 * everyData Store in the Variable bcz its best practicing for any programmer
 * variable data always declared on the console.log() , bcz of compiler always up_2_down/line_by_line code execution in any source. 
@@ -40,15 +41,54 @@ console.log("Age " + 12) String + Number = String data type
         -Object
         -Function
 
-009.
-Remember that IntegerNumber/FloatingNumber = Number in JavaScript
+009. Topic of Number
+* kinds of number
+    1. integer number
+    2. floating number
+    3. hexadecimal number
+    4. octal number
+* We declared Number 2 methods 
+    1. Number literal 
+    2. Number constructorNumber
+* integer == 23 full number on the other hand floating == 23.23 full number with dotted number.
+* Remember that 'IntegerNumber/FloatingNumber = Number' in JavaScript, we get to do this 64bit declared for FloatingNumber on the other hand 54bit declared for IntegerNumber
+* we use normal number, base in '10=> 0-9 Decimal number' but 'hexadecimal base in 16=> 0-9,A,B,C,D,E,F' on the other hand 'octal base in 8=> 0-7'
+* we declared normal number easily but hexadecimal/octal number declaration Systems is not easy bcz of this is a systematic way to declared in javascript like this 
+    hexadecimal == 0x
+    octal       == 0
+    N.B => always 0x. to start to hexadecimal number on the other hand octal always start to 0 *(0x. / 0 then main number include value than thats called hexadecimal/octal number)
 
-010.
+010. Topic of String
+* String is a big areas/part in any programmingWorld/programmingLanguages
+* We declared string 2 methods 
+    1. String literal 
+    2. String constructor 
+* String declared 3 ways
+    1. singleQuate == var a = 'Im single'
+    2. doubleQuate == var b = 'Im mingle'
+    3. backTick    == var c = `Im not s/m`
 
-011.
+011. Topic of Boolean
+* Boolean == true/false
+* We declared boolean 2 methods 
+    1. Boolean literal 
+    2. Boolean constructor 
+* Every Question => answer == true/false in any programming languages
 
-012.
+012. Topic of Null vs Undefined
+* if we declared any variable without value this types always called Undefined like this 'var abc       '
+* if we declared any variable with unknown value this types always called Null like this 'var abc = Null'
 
-013.
+013. Topic of TypeConversion with truthy value falsy value
+* TypeConversion means 'Number => number.perseInt' / 'Number => toString' / 'toString => Number' / 'Boolean => toString' etc
 
-014.
+014.Topic of JS Operators
+* All kind of js Operators 
+    Arithmetic      == +, -, *, /, %, ++, -- those called Arithmetic sign
+    Assignment      == =, +=, -=, *=, /=, %= those called Assignment sign
+    Comparison      == ==, !=, >, <, >=, <=, ===, !==. { when we will use comparison Operators when so result always return BooleanValue(true/flase) }
+    Bitwise         == (& AND), (| OR), (~ NOT), (^ ), (<< LeftShift), (>> RightShift)
+    Logical         == (&&), (||), (!)
+
+
+    Note: delete Operators, in Operators, instance of Operators, type of Operators 

@@ -16,3 +16,10 @@ console.log(thatsCalledBoolean0)
 console.log(thatsCalledBoolean1)
 console.log(thatsCalledUndefined)
 console.log(thatsCalledNull)
+
+
+var hex = 0xf
+console.log(hex)
+
+var oct = 05445
+console.log(oct)
