@@ -92,3 +92,18 @@ console.log("Age " + 12) String + Number = String data type
 
 
     Note: delete Operators, in Operators, instance of Operators, type of Operators 
+
+015. Topic of JS Statements
+* there are lot kind of Statements in js
+    condition
+    for loop
+    while loop
+    do while loop
+    if, else
+    switch 
+    Array
+    Array declaration
+    object declaration
+
+016. Topic Math Function
+
