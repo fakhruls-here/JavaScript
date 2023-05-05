@@ -73,7 +73,7 @@ console.log(a <= b)         //true
 
 var c = '50'
 var d = 50
-console.log(c === d)        // akhane triple === used hoyese bcz of 'comparison with type' checking this methods on the others hand double == used hoy only checking comparison
+console.log(c === d)        // akhane triple =(===) used hoyese bcz of 'comparison with type' checking this methods on the others hand double =(==) used hoy only checking comparison
 var c = '50'
 var d = 50
-console.log(c !== d)        // akhane triple === used hoyese bcz of 'comparison with type' checking this methods on the others hand double == used hoy only checking comparison
+console.log(c !== d)        // akhane triple =(===) used hoyese bcz of 'comparison with type' checking this methods on the others hand double =(==) used hoy only checking comparison

@@ -107,3 +107,11 @@ console.log("Age " + 12) String + Number = String data type
 
 016. Topic Math Function
 
+017. Topic date Function
+
+018. Topic comments of javascript
+* comments 2 kind of js
+    single line comment by declaration '//'
+    multiple line comment by declaration '/**/'
+
+019. Topic of conditional statement
